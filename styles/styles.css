@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap&subset=cyrillic');
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  font-weight: bold;
+
+
+  background-image: url(../img/dc-online-media-mockup.jpg);
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: 800px 20624px;
+
+  font-family: 'PT Sans', sans-serif;
+}
